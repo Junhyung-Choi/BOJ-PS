@@ -1,2 +1,1 @@
-print("a")
-print("b")
+print("18870 is solved~")
