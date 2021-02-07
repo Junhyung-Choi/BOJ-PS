@@ -7,14 +7,13 @@ Baekjoon Online Judgement Problem Solving
 
 ---
 ## 현재까지 푼 문제
-[1764 - 듣보잡](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "1764 - 듣보잡") | 
-[1931 - 회의실 배정](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "1931 - 회의실 배정") | 
-[2606 - 바이러스](https://github.om/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "2606 - 바이러스") | 
-[11279 - 최대 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "11279 - 최대 힙") | 
-[11723 - 집합](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "11723 - 집합") | 
-[11724 - 연결 요소의 개수](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "11724 - 연결 요소의 개수") | 
-[18870 - 좌표압축](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py, "18870 - 좌표압축") | 
-
+[1764 - 듣보잡](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1764.py "1764 - 듣보잡") | 
+[1931 - 회의실 배정](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1931.py "1931 - 회의실 배정") | 
+[2606 - 바이러스](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/2606.py "2606 - 바이러스") | 
+[11279 - 최대 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/11279.py "11279 - 최대 힙") | 
+[11723 - 집합](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/11723.py "11723 - 집합") | 
+[11724 - 연결 요소의 개수](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/11724.py "11724 - 연결 요소의 개수") | 
+[18870 - 좌표압축](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/18870.py "18870 - 좌표압축") | 
 
 ---
 ## 현재까지 작성된 문제해설

@@ -1,8 +1,8 @@
 n = int(input())
-arr = list(map(int, input().split()))
-aset = list(sorted(set(arr)))
-dic = {}
-for i in range(len(aset)):
-    dic[aset[i]] = i
-for i in arr:
-    print(dic[i],end=" ")
+dots = list(map(int, input().split()))
+dotset = list(sorted(set(dots)))
+dotdic = {}
+for i in range(len(dotset)):
+    dotdic[dotset[i]] = i
+for i in dots:
+    print(dotdic[i],end=" ")

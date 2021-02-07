@@ -1,13 +1,20 @@
+#BOJ 1764 - 듣보잡
 import sys
 input = sys.stdin.readline
-n,m = map(int,input().split())
-narr = set()
-marr = set()
-for _ in range(n):
-    narr.add(input().rstrip())
-for _ in range(m):
-    marr.add(input().rstrip())
-cross = sorted(list(narr.intersection(marr)))
-print(len(cross))
-for i in cross:
+
+#ns : 보지도 못한 사람, nh : 듣지도 못한 사람
+ns,nh = map(int,input().split())
+nsset = set()
+nhset = set()
+
+for _ in range(ns):
+    nsset.add(input().rstrip())
+
+for _ in range(nh):
+    nhset.add(input().rstrip())
+
+interset = sorted(list(nsset.intersection(nhset)))
+print(len(interset))
+
+for i in interset:
     print(i)

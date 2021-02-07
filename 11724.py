@@ -1,32 +1,32 @@
 import sys
 input = sys.stdin.readline
 
-dot,line = map(int,input().split())
-matrix = [[] for _ in range(dot)]
-been = []
+node,link = map(int,input().split())
+matrix = [[0]*node for _ in range(node)]
+check = [False] * node
 cnt = 0
 
-for _ in range(line):
+for _ in range(link):
     da,db = map(int,input().split())
-    da -= 1
-    db -= 1
-    matrix[da].append(db)
-    matrix[db].append(da)
+    matrix[da-1][db-1] = matrix[db-1][da-1] = 1 
 
 def bfs(num):
     global cnt
     queue = []
-    been.append(num)
+    check[num] = 1
     queue.append(num)
-    while queue != []:
-        tmp = queue.pop(0)
-        for i in matrix[tmp]:
-            if i not in been:
-                been.append(i)
+    index = 0
+    while index < len(queue):
+        tmp = queue[index]
+        for i in range(node):
+            if matrix[tmp][i] == 1 and not check[i]:
+                check[i] = True
                 queue.append(i)
+        index += 1
     cnt += 1
 
-for i in range(dot):
-    if i not in been:
+for i in range(node):
+    if not check[i]:
         bfs(i)
+
 print(cnt)
