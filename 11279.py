@@ -1,8 +1,12 @@
+#BOJ 11279 - 최대 힙
 import sys
 input = sys.stdin.readline
 
 maxHeap = []
 C = int(input())
+
+def swap(a,b):
+    maxHeap[a],maxHeap[b] = maxHeap[b],maxHeap[a]
 
 def delete():
     if maxHeap == []:
@@ -25,22 +29,18 @@ def delete():
                 if maxHeap[pidx] >= maxHeap[lcidx]:
                     break
                 else:
-                    tmp = maxHeap[pidx]
-                    maxHeap[pidx] = maxHeap[lcidx]
-                    maxHeap[lcidx] = tmp
+                    swap(pidx,lcidx)
                     pidx = lcidx
             #양쪽 다 비교하기
             else:
                 if maxHeap[pidx] >= maxHeap[lcidx] and maxHeap[pidx] >= maxHeap[rcidx]:
                     break
-                elif maxHeap[pidx] < maxHeap[lcidx] or maxHeap[rcidx]:
+                elif maxHeap[pidx] < maxHeap[lcidx] or maxHeap[pidx] < maxHeap[rcidx]:
                     if maxHeap[lcidx] >= maxHeap[rcidx]:
                         bigger = lcidx
                     else:
                         bigger = rcidx
-                    tmp = maxHeap[pidx]
-                    maxHeap[pidx] = maxHeap[bigger]
-                    maxHeap[bigger] = tmp
+                    swap(pidx,bigger)
                     pidx = bigger
 
 def add(num):
@@ -54,9 +54,7 @@ def add(num):
         else:
             pidx = ((cidx - 1) // 2)
         if maxHeap[pidx] < maxHeap[cidx]:
-            tmp = maxHeap[pidx]
-            maxHeap[pidx] = maxHeap[cidx]
-            maxHeap[cidx] = tmp
+            swap(pidx,cidx)
             cidx = pidx
         else:
             break

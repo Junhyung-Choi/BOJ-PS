@@ -14,7 +14,7 @@
 ### 1764번
 - 파이썬 내장 클래스인 `set`의 `intersection()` 메소드를 사용하면 두 `set` 사이의 교집합을 얻을 수 있다. 이를 활용하면 된다.
 
-![1764.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/1764.png "1764.png")
+![1764.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/1764.png?raw=true "1764.png")
 
 ### 11723번
 - 파이썬 내장 클래스인 `set`를 활용하면 쉽게 풀 수 있다.
@@ -26,7 +26,7 @@
 - `empty`는 `celar()` 메소드를 사용하자. `set`을 공집합으로 만들어준다.
 
 
-![11723.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/11723.png "11723.png")
+![11723.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/11723.png?raw=true "11723.png")
 
 ---
 ## 1931번 - 회의실 배정
@@ -57,8 +57,7 @@
 
 예시 : `array = array.sort(key = lambda x : (x[1],x[0]))`
 
-
-![1931.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/1931.png "1931.png")
+![1931.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/1931.png?raw=true "1931.png")
 
 ---
 ## 2606번 - 바이러스 & 11724번 - 연결 요소의 개수
@@ -81,12 +80,12 @@ Breadth(깊이 우선 탐색법)으로 모든 자식 노드를 순서대로 탐�
 - 11724번은 1번 노드부터 마지막 노드까지 순서대로 DFS,BFS를 이용해 탐색하되 방문한 노드에 기록되지 않은 노드만 탐색하면 된다. 그 후 각 탐색이 끝날 때마다 카운트를 1개씩 늘려 그 수를 출력하면 된다. 
 
 
-![2606.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/2606.png "2606.png")
+![2606.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/2606.png?raw=true "2606.png")
 
-![11724.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/11724.png "11724.png")
+![11724.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/11724.png?raw=true "11724.png")
 
 ---
-## 11279 최대힙
+## 11279 - 최대힙
 시간제한: 1초 | 메모리제한: 128MB 
 
 ![MaxHeap](https://media.geeksforgeeks.org/wp-content/uploads/MaxHeap.png "MaxHeap")
@@ -95,10 +94,10 @@ Breadth(깊이 우선 탐색법)으로 모든 자식 노드를 순서대로 탐�
 
 가장 큰 값을 출력할땐 최상위 노드를 제거하고 최하위 노드를 최상위 노드 위치에 넣은 뒤 자식 노드들과 비교하며 내리면 된다. 새로운 노드를 추가할땐 최하위에 노드를 삽입하고 부모노드와 비교해가며 위치를 바꾸면 된다.
 
-![11279.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/11279.png "11279.png")
+![11279.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/11279.png?raw=true "11279.png")
 
 ---
-## 18870 좌표압축
+## 18870 - 좌표압축
 시간제한: 2초 | 메모리제한: 512MB
 
 주어진 좌표들 중 특정 영역 내의 좌표 값을 구하고 싶은데, 각 좌표 사이의 거리가 너무 넓으면 메모리, 시간에 제한이 걸릴 수도 있다. 이럴때 좌표 압축을 시행하는데, 각각의 좌표를 상대적인 좌표로 나타내면 된다.
@@ -107,5 +106,5 @@ Breadth(깊이 우선 탐색법)으로 모든 자식 노드를 순서대로 탐�
 
 `dots`에 각 점을 넣고 `dotset`으로 중복된 좌표를 제거 해준다. 그리고 `dictonary`클래스를 이용해 `dotdic`에 `key`값을 좌표값으로, `value`값을 `for`문을 통해 0부터 `len(dotset)-1`까지 지정해주면 각 좌표당 할당된 새로운 좌표를 얻을 수 있다.
 
-![18870.png](https://github.com/Junhyung-Choi/BOJ-PS/img/blob/master/18870.png "18870.png")
+![18870.png](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/img/18870.png?raw=true "18870.png")
 

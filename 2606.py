@@ -20,7 +20,6 @@ def dfs(node):
     if node not in checkarr:
         checkarr.append(node)
     for cnodeidx in range(len(matrix[node])):
-        #if dfscheckarr[matrix[node][cnode]] == False:
         if matrix[node][cnodeidx] not in checkarr:
             dfs(matrix[node][cnodeidx])
 
