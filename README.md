@@ -20,7 +20,7 @@ Baekjoon Online Judgement Problem Solving
 ---
 ## 현재까지 작성된 문제해설
 
-### [2월 1주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb1.md "2월 1주차")
+### [2월 1주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/Feb1.md "2월 1주차")
 - 1764 - 듣보잡
 - 1913 - 회의실 배정
 - 2606 - 바이러스
