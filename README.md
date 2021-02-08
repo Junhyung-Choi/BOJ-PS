@@ -13,7 +13,7 @@ Baekjoon Online Judgement Problem Solving
 [11279 - 최대 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/11279.py "11279 - 최대 힙") | 
 [11723 - 집합](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/11723.py "11723 - 집합") | 
 [11724 - 연결 요소의 개수](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/11724.py "11724 - 연결 요소의 개수") | 
-[18870 - 좌표압축](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/18870.py "18870 - 좌표압축") |  
+[18870 - 좌표압축](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/18870.py "18870 - 좌표압축") | 
 [1927 - 최소 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1927.py "1927 - 최소 힙") | 
 [1697 - 숨바꼭질](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1697.py "1697 - 숨바꼭질") | 
 
