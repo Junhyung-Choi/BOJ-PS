@@ -16,7 +16,7 @@ Baekjoon Online Judgement Problem Solving
 [18870 - 좌표압축](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/18870.py "18870 - 좌표압축") | 
 [1927 - 최소 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1927.py "1927 - 최소 힙") | 
 [1697 - 숨바꼭질](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1697.py "1697 - 숨바꼭질") | 
-
+[7576 - 토마토](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/1697.py "7576 - 토마토") | 
 ---
 ## 현재까지 작성된 문제해설
 
