@@ -1,7 +1,8 @@
 #BOJ 1107 - 리모컨
 destination = int(input())
-btnnum = int(input())    
-btnlist = list(map(str,input().split()))
+btnnum = int(input())
+if btnnum != 0:
+    btnlist = list(map(str,input().split()))
 cnt = abs(destination - 100)
 
 for newchannel in range(1000001):
