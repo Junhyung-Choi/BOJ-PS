@@ -7,6 +7,9 @@ Baekjoon Online Judgement Problem Solving
 
 ---
 ## 현재까지 푼 문제
+
+## [2월 1주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_1/Feb1.md "2월 1주차")
+
 [1764 - 듣보잡](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_1/1764.py "1764 - 듣보잡") | 
 [1931 - 회의실 배정](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_1/1931.py "1931 - 회의실 배정") | 
 [2606 - 바이러스](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_1/2606.py "2606 - 바이러스") | 
@@ -16,6 +19,8 @@ Baekjoon Online Judgement Problem Solving
 [18870 - 좌표압축](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_1/18870.py "18870 - 좌표압축") | 
 
 ---
+## [2월 2주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_2/Feb2.md "2월 2주차")
+
 [1927 - 최소 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_2/1927.py "1927 - 최소 힙") | 
 [1697 - 숨바꼭질](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_2/1697.py "1697 - 숨바꼭질") | 
 [7576 - 토마토](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_2/7576.py "7576 - 토마토") | 
@@ -30,32 +35,24 @@ Baekjoon Online Judgement Problem Solving
 [17626 - Four Squares](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_2/17626.py "17626 - Four Squares") |
 
 ---
+## [2월 3주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/Feb3.md "2월 3주차")
+
 [2178 - 미로 탐색](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/2178.py "2178 - 미로 탐색") | 
 [2667 - 단지번호붙이기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/2667.py "2667 - 단지번호붙이기") | 
 [7596 - 토마토](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/7596.py "7596 - 토마토") | 
 [9205 - 맥주 마시면서 걸어가기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/9205.py "9205 - 맥주 마시면서 걸어가기") | 
 [11047 - 동전 0](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/11047.py "11047 - 동전 0") | 
 [11286 - 절댓값 힙](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/11286.py "11286 - 절댓값 힙") | 
+[1107 - 리모컨](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/1107.py "1107 - 리모컨") | 
+[9019 - DSLR](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/9019.py "9019 - DSLR") | 
+[10026 - 적록색약](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/10026.py "100`26 - 적록색약") | 
+[11403 - 경로찾기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/11403.py "11403 - 경로찾기") | 
+[14500 - 테트로미노](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/14500.py "14500 - 테트로미노") | 
+[15686 - 치킨 배달](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/15686.py "15686 - 치킨 배달") | 
+[16236 - 아기상어](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/16236.py "16236 - 아기상어") | 
 
 ---
-## 현재까지 작성된 문제해설
-
-### [2월 1주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_1/Feb1.md "2월 1주차")
-- 1764 - 듣보잡
-- 1913 - 회의실 배정
-- 2606 - 바이러스
-- 11279 - 최대 힙
-- 11723 - 집합
-- 11724 - 연결 요소의 개수
-- 18870 - 좌표압축
-
-### [2월 2주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_2/Feb2.md "2월 2주차")
-- BOJ 1697 - 숨바꼭질
-- BOJ 7576 - 토마토
-- BOJ 7662 - 이중 우선순위 큐
-- BOJ 17626 - Four Squares
-- BOJ 1780 - 종이의 개수
-- BOJ 1389 - 케빈 베이컨의 6단계 법칙
-- BOJ 5525 - IOIOI
-- BOJ 9375 - 패션왕 신해빈
-- BOJ 17219 - 비밀번호 찾기
+[1011 - Fly me to the Alpha Centuri](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1011.py "1011 - Fly me to the Alpha Centuri") | 
+[3009 - 네번째 점](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3009.py "3009 - 네번째 점") | 
+[3053 - 택시 기하학](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3053.py "3053 - 택시 기하학") | 
+[4948 - 베르트랑 공준](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/4948.py "4948 - 베르트랑 공준") | 
