@@ -1,9 +1,7 @@
 #BOJ 9205 - 맥주 마시면서 걸어가기
-
 import sys
 from collections import deque
 input = sys.stdin.readline
-
 T = int(input())
 
 def bfs(home,stores,end):
