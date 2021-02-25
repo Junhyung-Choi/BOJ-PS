@@ -56,3 +56,5 @@ Baekjoon Online Judgement Problem Solving
 [3009 - 네번째 점](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3009.py "3009 - 네번째 점") | 
 [3053 - 택시 기하학](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3053.py "3053 - 택시 기하학") | 
 [4948 - 베르트랑 공준](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/4948.py "4948 - 베르트랑 공준") | 
+[2447 - 별찍기 10](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/2447.py "2447 - 별찍기 10") | 
+[1427 - 소트인사이드](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1427.py "1427 - 소트인사이드") | 
