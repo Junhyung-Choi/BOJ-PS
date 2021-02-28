@@ -2,4 +2,4 @@
 import math
 num = int(input())
 print("%.6f" % (num*num*math.pi))
-print("%.6f" % num*num)
+print("%.6f" % (num*num*2))

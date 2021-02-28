@@ -52,10 +52,16 @@ Baekjoon Online Judgement Problem Solving
 [16236 - 아기상어](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_3/16236.py "16236 - 아기상어") | 
 
 ---
+## [2월 4주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/Feb4.md "2월 4주차")
 [1011 - Fly me to the Alpha Centuri](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1011.py "1011 - Fly me to the Alpha Centuri") | 
 [3009 - 네번째 점](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3009.py "3009 - 네번째 점") | 
 [3053 - 택시 기하학](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3053.py "3053 - 택시 기하학") | 
 [4948 - 베르트랑 공준](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/4948.py "4948 - 베르트랑 공준") | 
 [2447 - 별찍기 10](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/2447.py "2447 - 별찍기 10") | 
 [1427 - 소트인사이드](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1427.py "1427 - 소트인사이드") | 
-[15649 - N과 M(1)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15649.py "15649 - N과 M(1)") | 
+[15649 - N과 M(1)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15649.py "15649 - N과 M(1)") |  
+[15650 - N과 M(2)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15650.py "15650 - N과 M(2)") |  
+[15651 - N과 M(3)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15651.py "15651 - N과 M(3)") |  
+[15652 - N과 M(4)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15652.py "15652 - N과 M(4)") |  
+[9663 - N-Queen](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/9663.py "9663 - N-Queen") |  
+[2580 - 스도쿠](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/2580.py "2580 - 스도쿠") | 
