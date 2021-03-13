@@ -1,20 +1,14 @@
-# 2월 4주차 문제해설
-- [1011 - Fly me to the Alpha Centuri](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1011.py "1011 - Fly me to the Alpha Centuri")
-- [3009 - 네번째 점](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3009.py "3009 - 네번째 점")
-- [3053 - 택시 기하학](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3053.py "3053 - 택시 기하학")
-- [4948 - 베르트랑 공준](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/4948.py "4948 - 베르트랑 공준")
-- [2447 - 별찍기 10](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/2447.py "2447 - 별찍기 10")
-- [1427 - 소트인사이드](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1427.py "1427 - 소트인사이드")
-- [15649 - N과 M(1)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15649.py "15649 - N과 M(1)")
-- [9663 - N-Queen](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/9663.py "9663 - N-Queen")
-- [2580 - 스도쿠](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/2580.py "2580 - 스도쿠")
+# 3월 1주차 문제해설
+- [1904 - 01타일](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1904.py "1904 - 01타일")
+- [1912 - 연속 합](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1912.py "1912 - 연속 합")
+- [2156 - 포도주 시식](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/2156.py "2156 - 포도주 시식")
+- [9184 - 신나는 함수 실행](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/9184.py "9184 - 신나는 함수 실행")
+- [10844 - 쉬운 계단 수](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/10844.py "10844 - 쉬운 계단 수")
+- [11053 - 가장 긴 증가하는 부분 수열](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/11053.py "11053 - 가장 긴 증가하는 부분 수열")
+- [14888 - 연산자 끼워넣기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/14888.py "14888 - 연산자 끼워넣기")
+- [14889 - 스타트와 링크](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/14889.py "14889 - 스타트와 링크")
 ---
 해설 없는 문제
-[3009 - 네번째 점](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/3009.py "3009 - 네번째 점")
-[15650 - N과 M(2)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15650.py "15650 - N과 M(2)") |
-[15651 - N과 M(3)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15651.py "15651 - N과 M(3)") |
-[15652 - N과 M(4)](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/15652.py "15652 - N과 M(4)") |
-[1427 - 소트인사이드](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1427.py "1427 - 소트인사이드")
 
 ---
 ## [1011 - Fly me to the Alpha Centuri](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Feb/week_4/1011.py "1011 - Fly me to the Alpha Centuri")
