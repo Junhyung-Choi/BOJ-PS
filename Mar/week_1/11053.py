@@ -3,7 +3,6 @@ n = int(input())
 data = list(map(int,input().split()))
 dp = [1] * n
 for i in range(1,n):
-    under_max = -1
     index = 0
     for j in range(0,i):
         if data[j] < data[i]:

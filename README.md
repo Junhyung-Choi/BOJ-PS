@@ -68,11 +68,11 @@ Baekjoon Online Judgement Problem Solving
 
 ---
 ## [3월 1주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/Mar1.md "3월 1주차")
-- [1904 - 01타일](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/1904.py "1904 - 01타일")
-- [1912 - 연속 합](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/1912.py "1912 - 연속 합")
-- [2156 - 포도주 시식](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/2156.py "2156 - 포도주 시식")
-- [9184 - 신나는 함수 실행](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/9184.py "9184 - 신나는 함수 실행")
-- [10844 - 쉬운 계단 수](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/10844.py "10844 - 쉬운 계단 수")
-- [11053 - 가장 긴 증가하는 부분 수열](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/11053.py "11053 - 가장 긴 증가하는 부분 수열")
-- [14888 - 연산자 끼워넣기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/14888.py "14888 - 연산자 끼워넣기")
-- [14889 - 스타트와 링크](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/14889.py "14889 - 스타트와 링크")
+- [1904 - 01타일](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/1904.py "1904 - 01타일") | 
+- [1912 - 연속 합](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/1912.py "1912 - 연속 합") | 
+- [2156 - 포도주 시식](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/2156.py "2156 - 포도주 시식") | 
+- [9184 - 신나는 함수 실행](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/9184.py "9184 - 신나는 함수 실행") | 
+- [10844 - 쉬운 계단 수](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/10844.py "10844 - 쉬운 계단 수") | 
+- [11053 - 가장 긴 증가하는 부분 수열](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/11053.py "11053 - 가장 긴 증가하는 부분 수열") | 
+- [14888 - 연산자 끼워넣기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/14888.py "14888 - 연산자 끼워넣기") | 
+- [14889 - 스타트와 링크](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_1/14889.py "14889 - 스타트와 링크") | 
