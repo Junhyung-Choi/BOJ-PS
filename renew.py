@@ -86,26 +86,31 @@ compareProblems()
 os.chdir(proj)
 print(notin)
 doc = open("README.md","a")
-
-for nproblem in notin:
-    number, midx, widx = nproblem
-    os.chdir(proj + "/" + month[midx] + "/" + week[widx])
-    f = open(number,"r")
-    name = (f.readline().rstrip())[12:].lstrip()
-    f.close()
-    print(doclastmonth,midx,doclastweek,widx)
-    if doclastmonth < midx or doclastweek < widx:
-        doc.write("\n")
-        doc.write("---\n")
-        title =  "## [" + str(midx+1) + "월 " + str(widx+1) + "주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/" + \
-        month[midx] + "/" + week[widx] + "/" + month[midx] + str(widx+1) + ".md " + " \"" + str(midx + 1) + "월 " + str(widx + 1) + "주차\")"
-        doc.write(title + "\n")
-        doc.write("\n")
-        doclastmonth,doclastweek = midx, widx
-    sentence = ("["+number + " - " + name + "](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/" + \
-                   month[midx] + "/" + week[widx] + "/" + number + " \"" + number.split(".")[0] + " - " + name + "\") | ")
-    print(sentence)
-    doc.write(sentence + "\n")
+def writeDoc():
+    global doclastmonth,doclastweek
+    for nproblem in notin:
+        number, midx, widx = nproblem
+        os.chdir(proj + "/" + month[midx] + "/" + week[widx])
+        f = open(number,"r")
+        name = (f.readline().rstrip())[12:].lstrip()
+        f.close()
+        if doclastmonth < midx or doclastweek < widx:
+            doc.write("\n")
+            doc.write("---\n")
+            title =  "## [" + str(midx+1) + "월 " + str(widx+1) + "주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/" + \
+            month[midx] + "/" + week[widx] + "/" + month[midx] + str(widx+1) + ".md " + " \"" + str(midx + 1) + "월 " + str(widx + 1) + "주차\")"
+            doc.write(title + "\n")
+            doc.write("\n")
+            doclastmonth,doclastweek = midx, widx
+        sentence = ("["+number.split(".")[0] + " - " + name + "](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/" + \
+                    month[midx] + "/" + week[widx] + "/" + number + " \"" + number.split(".")[0] + " - " + name + "\") | ")
+        print(sentence)
+        doc.write(sentence + "\n")
+choice = int(input("If you Want to Update README.md, enter 1 else 2: "))
+if choice == 1:
+    writeDoc()
+else:
+    print("Program Quit")
 doc.close()
 
 last = os.getcwd()
