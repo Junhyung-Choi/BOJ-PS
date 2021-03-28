@@ -1,4 +1,4 @@
-#scofe 6 - 시선 이동
+#scofe 6 - 팝업 스토리
 import sys
 from collections import deque
 input = sys.stdin.readline
