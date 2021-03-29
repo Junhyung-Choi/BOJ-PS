@@ -1,4 +1,6 @@
 # 3월 4주차 문제해설
+- [1629 - 곱셈](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/1629.py "1629 - 곱셈") | 
+- [1991 - 트리 순회](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/1991.py "1991 - 트리 순회") | 
 - [2163 - 초콜릿 자르기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/2163.py "2163 - 초콜릿 자르기") | 
 - [9465 - 스티커](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/9465.py "9465 - 스티커") | 
 - [11725 - 트리의 부모 찾기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/11725.py "11725 - 트리의 부모 찾기") | 
@@ -7,6 +9,14 @@
 
 ---
 해설 없는 문제
+
+---
+## [1629 - 곱셈](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/1629.py "1629 - 곱셈")
+- 시간제한 : 2초 | 메모리제한 : 128MB
+
+---
+## [1991 - 트리 순회](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/1991.py "1991 - 트리 순회")
+- 시간제한 : 2초 | 메모리제한 : 128MB
 
 ---
 ## [2163 - 초콜릿 자르기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_4/2163.py "2163 - 초콜릿 자르기")
