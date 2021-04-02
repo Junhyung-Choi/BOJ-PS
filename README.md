@@ -118,3 +118,4 @@ Baekjoon Online Judgement Problem Solving
 [11660 - 구간 합 구하기 5](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_5/11660.py "11660 - 구간 합 구하기 5") | 
 [1753 - 최단경로](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_5/1753.py "1753 - 최단경로") | 
 [16953 - A -> B](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_5/16953.py "16953 - A -> B") | 
+[1916 - 최소비용 구하기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Mar/week_5/1916.py "1916 - 최소비용 구하기") | 
