@@ -124,4 +124,6 @@ Baekjoon Online Judgement Problem Solving
 ---
 ## [4월 1주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/Apr1.md  "4월 1주차")
 
-[13549 - 숨바꼭질](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/13549.py "13549 - 숨바꼭질") | 
+[13549 - 숨바꼭질 3](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/13549.py "13549 - 숨바꼭질 3") | 
+[14502 - 연구소](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/14502.py "14502 - 연구소") | 
+[2740 - 행렬 곱셈](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/2740.py "2740 - 행렬 곱셈") | 

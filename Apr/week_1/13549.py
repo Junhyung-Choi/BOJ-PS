@@ -1,4 +1,4 @@
-#BOJ 1697 - 숨바꼭질
+#BOJ 13549 - 숨바꼭질 3
 from collections import deque
 
 spos,bpos = map(int,input().split())
