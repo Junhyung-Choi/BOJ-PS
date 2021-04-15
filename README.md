@@ -129,3 +129,10 @@ Baekjoon Online Judgement Problem Solving
 [2740 - 행렬 곱셈](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/2740.py "2740 - 행렬 곱셈") | 
 [2033 - 반올림](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/2033.py "2033 - 반올림") | 
 [17070 - 파이프 옮기기 1](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/17070.py "17070 - 파이프 옮기기 1") | 
+[17144 - 미세먼지 안녕!](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_1/17144.py "17144 - 미세먼지 안녕!") | 
+
+---
+## [4월 2주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_2/Apr2.md  "4월 2주차")
+
+[13172 - Σ](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_2/13172.py "13172 - Σ") | 
+[2110 - 공유기 설치](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_2/2110.py "2110 - 공유기 설치") | 
