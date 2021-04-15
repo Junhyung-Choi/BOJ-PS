@@ -22,7 +22,7 @@ while (start <= end):
     cnt = 1
     
     for i in range(1, len(house)):
-        if tmp+mid <= house[i]: # gap 이상
+        if tmp + mid <= house[i]:
             cnt += 1
             tmp = house[i]
     if share <= cnt:
