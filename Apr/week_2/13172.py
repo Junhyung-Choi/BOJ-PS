@@ -6,7 +6,6 @@ mod = 1000000007
 
 dicenum = int(input())
 
-
 def bigSqaure(num,sqnum):
     if sqnum == 1:
         return num
@@ -18,11 +17,12 @@ def bigSqaure(num,sqnum):
 result = 0
 
 for _ in range(dicenum):
-    side, polysum = map(int,input().split())
-    side = side // math.gcd(side,polysum)
-    polysum = polysum // math.gcd(side,polysum)
+    side, poly = map(int,input().split())
+    gnum = math.gcd(side,poly)
+    side = side // gnum
+    poly = poly // gnum
     yuk = bigSqaure(side,mod-2)
-    result += (polysum * yuk) % mod
+    result += (poly * yuk)
     result = result % mod
 
 print(result)
