@@ -1,3 +1,4 @@
+#BOJ 14501 - 퇴사
 import sys
 input = sys.stdin.readline
 n = int(input())
