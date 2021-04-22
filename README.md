@@ -138,3 +138,9 @@ Baekjoon Online Judgement Problem Solving
 [2110 - 공유기 설치](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_2/2110.py "2110 - 공유기 설치") | 
 [11659 - 구간 합 구하기 4](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_2/11659.py "11659 - 구간 합 구하기 4") | 
 [14501 - 퇴사](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_2/14501.py "14501 - 퇴사") | 
+
+---
+## [4월 3주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_3/Apr3.md  "4월 3주차")
+
+[16928 - 뱀과 사다리 게임](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_3/16928.py "16928 - 뱀과 사다리 게임") | 
+[4043 - 거짓말](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_3/4043.py "4043 - 거짓말") | 
