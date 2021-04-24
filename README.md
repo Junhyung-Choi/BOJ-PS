@@ -144,3 +144,4 @@ Baekjoon Online Judgement Problem Solving
 
 [16928 - 뱀과 사다리 게임](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_3/16928.py "16928 - 뱀과 사다리 게임") | 
 [4043 - 거짓말](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_3/4043.py "4043 - 거짓말") | 
+[1865 - 웜홀](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_3/1865.py "1865 - 웜홀") | 
