@@ -150,3 +150,10 @@ Baekjoon Online Judgement Problem Solving
 ## [4월 4주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_4/Apr4.md  "4월 4주차")
 
 [1504 - 특정한 최단 경로](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/Apr/week_4/1504.py "1504 - 특정한 최단 경로") | 
+
+---
+## [5월 3주차](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/May/week_3/May3.md  "5월 3주차")
+
+[flower - 꽃피우기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/May/week_3/flower.py "flower - 꽃피우기") | 
+[getnumber - 숫자 뽑기](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/May/week_3/getnumber.py "getnumber - 숫자 뽑기") | 
+[notepad - 메모장](https://github.com/Junhyung-Choi/BOJ-PS/blob/master/May/week_3/notepad.py "notepad - 메모장") | 
